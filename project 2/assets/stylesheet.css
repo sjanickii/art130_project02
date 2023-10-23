@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@300&display=swap');
+
+html {
+    background-color:rgb(242, 255, 239);
+    font-family: 'Kanit';
+}
+
+body {
+    margin: 4rem;
+}
+
+h1 {
+    color: rgb(140, 207, 22);
+    text-align: left;
+}
+
+h2 {
+    color: rgb(102, 169, 20);
+    text-align: left;
+}
+
+h3 {
+    color: rgb(89, 125, 12);
+    text-align: left;
+}
+
+address {
+    color: rgb(102, 169, 20);
+    text-align: left;
+}
+
+li {
+    color:rgb(76, 105, 17);
+    text-align: left;
+}
+
+.one {
+    color:rgb(102, 169, 20);
+    text-align: left;
+}
+
+.two {
+    color:rgb(76, 105, 17);
+    text-align: left;
+}
+
+div {
+    position: absolute;
+    top: 0;
+    left: 300px;
+}
